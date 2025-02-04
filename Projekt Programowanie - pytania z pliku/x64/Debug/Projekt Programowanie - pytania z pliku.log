@@ -1,0 +1,6 @@
+﻿  Projekt Programowanie - pytania z pliku.cpp
+C:\Users\gipso\OneDrive\Pulpit\Studia\1 ROK\Programowanie I\Projekt Programowanie - pytania z pliku\Projekt Programowanie - pytania z pliku\Projekt Programowanie - pytania z pliku.cpp(76,19): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\gipso\OneDrive\Pulpit\Studia\1 ROK\Programowanie I\Projekt Programowanie - pytania z pliku\Projekt Programowanie - pytania z pliku\Projekt Programowanie - pytania z pliku.cpp(106,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\gipso\OneDrive\Pulpit\Studia\1 ROK\Programowanie I\Projekt Programowanie - pytania z pliku\Projekt Programowanie - pytania z pliku\Projekt Programowanie - pytania z pliku.cpp(113,14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\gipso\OneDrive\Pulpit\Studia\1 ROK\Programowanie I\Projekt Programowanie - pytania z pliku\Projekt Programowanie - pytania z pliku\Projekt Programowanie - pytania z pliku.cpp(1480,21): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Projekt Programowanie - pytania z pliku.vcxproj -> C:\Users\gipso\OneDrive\Pulpit\Studia\1 ROK\Programowanie I\Projekt Programowanie - pytania z pliku\x64\Debug\Projekt Programowanie - pytania z pliku.exe
